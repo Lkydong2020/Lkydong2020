@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lkydong2020
-- 👀 I’m interested in evolutionary computing, image processing and all things fun!
+- 👀 I’m interested in evolutionary computing, CV and all things fun!
 - 🌱 I’m currently learning Video understanding...
 - 💞️ I am seeking to work with the computer that is destined to not hurt my eyes.
 - 📫 How to reach me ？ Send me an email on it, any questions or experience welcome more communication ah!
